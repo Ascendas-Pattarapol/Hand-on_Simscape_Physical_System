@@ -1,8 +1,4 @@
 
-<a id="TMP_4599"></a>
-![image_0.png](./Model_Physical_System_in_various_fidelity_levels_TDET_media/image_0.png)![image_1.png](./Model_Physical_System_in_various_fidelity_levels_TDET_media/image_1.png)
-<a id="TMP_7546"></a>
-
 # Hand\-On Model Physical System in various fidelity level 
 <!-- Begin Toc -->
 
@@ -23,8 +19,6 @@
  
 &emsp;[Model Physical System in various fidelity level](#TMP_99a5)
  
-&emsp;&emsp;[![image_13.png](./Model_Physical_System_in_various_fidelity_levels_TDET_media/image_13.png)](#TMP_1f13)
- 
 &emsp;&emsp;[Task 1: Create fundamental Buck converter circuit](#TMP_0dc5)
  
 &emsp;&emsp;[Task 2: Create built\-in Buck converter circuit from Simscape Electrical](#TMP_2404)
@@ -36,8 +30,6 @@
 &emsp;&emsp;[Task 5: Tunning Controller with PID tunner](#TMP_5295)
  
 &emsp;[\*Optional\* Across the Domain (Rotational + Multibody)](#TMP_6ade)
- 
-&emsp;&emsp;[![image_51.png](./Model_Physical_System_in_various_fidelity_levels_TDET_media/image_51.png)](#TMP_7f45)
  
 &emsp;&emsp;[Task 6: Connect to another domain (Rotational)](#TMP_6fc0)
  
